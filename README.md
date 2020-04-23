@@ -1,5 +1,7 @@
 # Wheel-of-Fortune-game
 
+## About it:
+
 This project will take you through the process of implementing a simplified version of the game Wheel of Fortune. Here are the rules of our game:
 
 - There are num_human human players and num_computer computer players.
@@ -39,3 +41,6 @@ This project will take you through the process of implementing a simplified vers
   - If the wheel lands on “bankrupt”, the player loses their turn and loses their money but they keep all of the prizes they have won so far.
 
 - The game continues until the entire phrase is revealed (or one player guesses the complete phrase)
+
+### Course Material:
+University of Michigan in Coursera. You can find more information at https://www.coursera.org/learn/python-classes-inheritance
